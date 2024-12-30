@@ -1,0 +1,15 @@
+{
+  "name": "NFT #2",
+  "description": "This is a randomly generated NFT description.",
+  "image": "https://assets.objkt.media/file/assets-003/QmVm1VGQqSpHfxg7rwTtGePvy2wk8oCLHuoJSLqtbJwgda/artifact",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "common"
+    },
+    {
+      "trait_type": "generation",
+      "value": 1
+    }
+  ]
+}
