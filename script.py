@@ -31,7 +31,7 @@ def generate_metadata(pictures):
         }
 
         # File name for the metadata JSON
-        file_name = f"metadata_{index + 1}.json"
+        file_name = f"{index + 1}.json"
         file_path = os.path.join(output_dir, file_name)
 
         # Write JSON to file
